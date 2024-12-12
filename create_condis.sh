@@ -1,6 +1,9 @@
 #!/usr/bin/bash
 
-# Well I Hope this works
+# Created by Freddie Mac - KD5FMu with the help of ChatGPT
+# Please feel free to use it.
+# http://www.hamradiolife.org
+# http://www.youtube.com/@hamradiocrusader
 
 # Ensure the /etc/asterisk/local directory exists
 if [ ! -d "/etc/asterisk/local" ]; then
