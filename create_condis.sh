@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-# Created by Freddie Mac - KD5FMu with the help of ChatGPT
+# Created by Freddie Mac - KD5FMU with the help of ChatGPT
 # Please feel free to use it.
 # http://www.hamradiolife.org
 # http://www.youtube.com/@hamradiocrusader
