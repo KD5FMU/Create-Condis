@@ -30,5 +30,10 @@ sudo chmod +x create_condis.sh
 ```
 
 Now that the file is made executable you can run it 
+```
+sudo ./create_condis.sh
+```
+
+Have fun with it, 73 and Ham On!
 
 
